@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Phonebook</string>
+    <string name="title_activity_phonebook">Phonebook</string>
 </resources>

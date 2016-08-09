@@ -145,7 +145,7 @@
     <ImageButton
         android:layout_width="70dp"
         android:layout_height="70dp"
-        android:id="@+id/imageButton2"
+        android:id="@+id/editcntct"
         android:layout_alignParentBottom="true"
         android:layout_alignLeft="@+id/lname"
         android:layout_alignStart="@+id/lname"
@@ -157,8 +157,8 @@
     <ImageButton
         android:layout_width="70dp"
         android:layout_height="70dp"
-        android:id="@+id/imageButton3"
-        android:layout_alignTop="@+id/imageButton2"
+        android:id="@+id/clear"
+        android:layout_alignTop="@+id/editcntct"
         android:layout_toRightOf="@+id/nickname"
         android:layout_toEndOf="@+id/nickname"
         android:layout_marginLeft="90dp"
